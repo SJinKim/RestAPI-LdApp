@@ -1,0 +1,31 @@
+{
+  "name": "backend_ld",
+  "version": "1.0.0",
+  "description": "rest api for ld app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SJinKim/ld-app-backend.git"
+  },
+  "keywords": [
+    "backend",
+    "rest",
+    "api"
+  ],
+  "author": "Seung Jin Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SJinKim/ld-app-backend/issues"
+  },
+  "homepage": "https://github.com/SJinKim/ld-app-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "firebase": "^11.0.1"
+  }
+}
